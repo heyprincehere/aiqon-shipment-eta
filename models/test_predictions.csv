@@ -1,0 +1,121 @@
+shipment_id,route,final_delay_hours,is_delayed_24h,predicted_delay_hours,predicted_delay_probability
+SHP-0414,Singapore-Chennai,26.51,1,27.63,0.499
+SHP-0584,Busan-Visakhapatnam,25.37,1,30.6,0.767
+SHP-0321,Rotterdam-Mundra,34.57,1,26.73,0.612
+SHP-0564,Busan-Visakhapatnam,16.15,0,15.16,0.196
+SHP-0400,Dubai-Nhava Sheva,27.76,1,28.29,0.747
+SHP-0408,Singapore-Chennai,30.39,1,28.5,0.765
+SHP-0392,Dubai-Nhava Sheva,20.3,0,19.63,0.356
+SHP-0470,Shanghai-Mumbai,21.23,0,23.47,0.441
+SHP-0498,Shanghai-Mumbai,20.57,0,25.44,0.538
+SHP-0224,Rotterdam-Mundra,14.56,0,24.63,0.513
+SHP-0524,Dubai-Nhava Sheva,29.13,1,26.08,0.627
+SHP-0048,Shanghai-Mumbai,18.43,0,19.02,0.319
+SHP-0202,Shanghai-Mumbai,40.59,1,33.54,0.887
+SHP-0141,Busan-Visakhapatnam,20.58,0,21.79,0.44
+SHP-0201,Busan-Visakhapatnam,32.48,1,30.99,0.876
+SHP-0429,Shanghai-Mumbai,20.91,0,29.86,0.523
+SHP-0284,Dubai-Nhava Sheva,7.11,0,17.77,0.376
+SHP-0068,Busan-Visakhapatnam,25.09,1,24.73,0.441
+SHP-0577,Shanghai-Mumbai,16.5,0,22.0,0.43
+SHP-0162,Shanghai-Mumbai,16.06,0,15.19,0.163
+SHP-0346,Rotterdam-Mundra,40.13,1,30.5,0.836
+SHP-0506,Busan-Visakhapatnam,26.13,1,26.46,0.551
+SHP-0566,Singapore-Chennai,35.48,1,23.91,0.409
+SHP-0274,Dubai-Nhava Sheva,39.44,1,28.34,0.825
+SHP-0373,Dubai-Nhava Sheva,11.51,0,22.28,0.432
+SHP-0006,Singapore-Chennai,42.7,1,26.54,0.511
+SHP-0105,Singapore-Chennai,20.32,0,27.94,0.64
+SHP-0368,Dubai-Nhava Sheva,16.54,0,18.66,0.208
+SHP-0136,Busan-Visakhapatnam,30.16,1,25.01,0.528
+SHP-0465,Rotterdam-Mundra,36.41,1,32.94,0.79
+SHP-0125,Dubai-Nhava Sheva,25.4,1,32.76,0.764
+SHP-0130,Dubai-Nhava Sheva,14.52,0,26.07,0.467
+SHP-0114,Rotterdam-Mundra,13.35,0,12.98,0.214
+SHP-0344,Busan-Visakhapatnam,55.21,1,42.0,0.949
+SHP-0517,Dubai-Nhava Sheva,17.88,0,20.45,0.493
+SHP-0110,Busan-Visakhapatnam,19.12,0,24.08,0.41
+SHP-0188,Rotterdam-Mundra,41.87,1,41.08,0.861
+SHP-0423,Dubai-Nhava Sheva,28.58,1,24.66,0.454
+SHP-0485,Busan-Visakhapatnam,38.65,1,32.38,0.816
+SHP-0590,Dubai-Nhava Sheva,16.49,0,21.1,0.364
+SHP-0340,Rotterdam-Mundra,21.22,0,22.2,0.606
+SHP-0556,Shanghai-Mumbai,32.26,1,26.18,0.568
+SHP-0510,Rotterdam-Mundra,35.03,1,28.69,0.765
+SHP-0112,Dubai-Nhava Sheva,38.58,1,36.4,0.969
+SHP-0085,Busan-Visakhapatnam,32.54,1,31.84,0.723
+SHP-0496,Rotterdam-Mundra,26.52,1,26.61,0.635
+SHP-0180,Singapore-Chennai,28.84,1,27.35,0.705
+SHP-0364,Dubai-Nhava Sheva,28.26,1,26.23,0.59
+SHP-0178,Busan-Visakhapatnam,29.08,1,25.63,0.579
+SHP-0089,Busan-Visakhapatnam,27.49,1,23.12,0.424
+SHP-0342,Busan-Visakhapatnam,24.97,1,29.32,0.851
+SHP-0591,Rotterdam-Mundra,31.94,1,20.57,0.615
+SHP-0032,Rotterdam-Mundra,33.82,1,15.82,0.238
+SHP-0571,Shanghai-Mumbai,24.81,1,27.89,0.757
+SHP-0050,Singapore-Chennai,17.58,0,20.7,0.32
+SHP-0268,Shanghai-Mumbai,33.36,1,31.61,0.818
+SHP-0233,Shanghai-Mumbai,32.18,1,27.88,0.683
+SHP-0293,Rotterdam-Mundra,13.16,0,19.78,0.256
+SHP-0246,Singapore-Chennai,26.35,1,27.76,0.621
+SHP-0309,Busan-Visakhapatnam,34.07,1,28.38,0.765
+SHP-0128,Singapore-Chennai,22.05,0,27.57,0.608
+SHP-0196,Dubai-Nhava Sheva,19.07,0,24.42,0.417
+SHP-0255,Shanghai-Mumbai,10.85,0,22.93,0.398
+SHP-0543,Busan-Visakhapatnam,21.8,0,14.35,0.293
+SHP-0216,Singapore-Chennai,30.84,1,28.89,0.79
+SHP-0237,Shanghai-Mumbai,16.63,0,12.2,0.141
+SHP-0401,Busan-Visakhapatnam,18.51,0,11.41,0.096
+SHP-0297,Dubai-Nhava Sheva,26.13,1,30.85,0.913
+SHP-0349,Rotterdam-Mundra,14.72,0,17.95,0.252
+SHP-0099,Singapore-Chennai,33.05,1,20.7,0.183
+SHP-0208,Busan-Visakhapatnam,27.78,1,26.5,0.812
+SHP-0598,Singapore-Chennai,30.97,1,35.55,0.743
+SHP-0063,Rotterdam-Mundra,29.03,1,34.66,0.782
+SHP-0570,Shanghai-Mumbai,37.49,1,29.41,0.663
+SHP-0066,Busan-Visakhapatnam,32.47,1,32.25,0.949
+SHP-0031,Singapore-Chennai,12.71,0,16.56,0.208
+SHP-0263,Singapore-Chennai,17.33,0,22.26,0.348
+SHP-0451,Singapore-Chennai,31.27,1,27.69,0.672
+SHP-0471,Busan-Visakhapatnam,19.82,0,26.76,0.667
+SHP-0290,Shanghai-Mumbai,31.76,1,31.13,0.678
+SHP-0239,Shanghai-Mumbai,17.28,0,24.88,0.664
+SHP-0260,Rotterdam-Mundra,31.43,1,40.59,0.787
+SHP-0531,Singapore-Chennai,37.17,1,31.77,0.823
+SHP-0430,Rotterdam-Mundra,8.73,0,16.31,0.156
+SHP-0197,Singapore-Chennai,21.69,0,30.15,0.708
+SHP-0091,Rotterdam-Mundra,35.84,1,33.44,0.832
+SHP-0581,Dubai-Nhava Sheva,25.29,1,20.04,0.416
+SHP-0165,Shanghai-Mumbai,19.3,0,20.79,0.275
+SHP-0427,Rotterdam-Mundra,21.07,0,22.26,0.421
+SHP-0404,Shanghai-Mumbai,24.16,1,18.81,0.36
+SHP-0286,Singapore-Chennai,14.28,0,18.17,0.136
+SHP-0516,Dubai-Nhava Sheva,31.67,1,28.92,0.937
+SHP-0497,Singapore-Chennai,23.29,0,19.06,0.403
+SHP-0493,Singapore-Chennai,14.81,0,14.95,0.206
+SHP-0060,Busan-Visakhapatnam,37.22,1,32.23,0.901
+SHP-0446,Busan-Visakhapatnam,27.18,1,29.28,0.568
+SHP-0018,Rotterdam-Mundra,31.83,1,39.35,0.822
+SHP-0238,Shanghai-Mumbai,32.37,1,25.95,0.698
+SHP-0002,Dubai-Nhava Sheva,25.53,1,21.92,0.533
+SHP-0500,Dubai-Nhava Sheva,17.99,0,24.19,0.47
+SHP-0081,Shanghai-Mumbai,15.27,0,21.14,0.27
+SHP-0518,Busan-Visakhapatnam,20.68,0,22.42,0.394
+SHP-0316,Shanghai-Mumbai,24.23,1,29.22,0.72
+SHP-0227,Shanghai-Mumbai,15.67,0,20.51,0.355
+SHP-0282,Rotterdam-Mundra,39.54,1,31.74,0.867
+SHP-0281,Singapore-Chennai,41.25,1,30.26,0.815
+SHP-0600,Dubai-Nhava Sheva,23.06,0,20.02,0.255
+SHP-0550,Busan-Visakhapatnam,13.55,0,17.2,0.233
+SHP-0484,Singapore-Chennai,11.95,0,15.3,0.125
+SHP-0229,Singapore-Chennai,18.63,0,23.29,0.401
+SHP-0299,Rotterdam-Mundra,24.42,1,27.98,0.678
+SHP-0040,Singapore-Chennai,36.27,1,27.79,0.658
+SHP-0117,Rotterdam-Mundra,20.91,0,25.42,0.492
+SHP-0512,Dubai-Nhava Sheva,19.52,0,15.67,0.17
+SHP-0047,Rotterdam-Mundra,35.6,1,22.65,0.32
+SHP-0302,Rotterdam-Mundra,28.65,1,29.83,0.706
+SHP-0466,Singapore-Chennai,40.91,1,24.14,0.544
+SHP-0005,Dubai-Nhava Sheva,15.19,0,20.72,0.243
+SHP-0387,Rotterdam-Mundra,38.87,1,33.02,0.861
+SHP-0438,Rotterdam-Mundra,16.51,0,21.43,0.343
